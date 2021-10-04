@@ -4,11 +4,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './Componets/Home/Home';
 import Aboute from './Componets/Aboute/Aboute';
-import Compitition from './Componets/Compitition/Compitition';
 import NotFound from './Componets/NotFound/NotFound';
 import Header from './Componets/Header/Header';
-import Footer from './Componets/Footer/Footer';
 import Service from './Componets/Services/Services';
+import Apply from './Componets/Apply/Apply';
 
 
 function App() {
@@ -29,8 +28,8 @@ function App() {
           <Route path="/service">
             <Service></Service>
           </Route>
-          <Route path="/compititon">
-            <Compitition></Compitition>
+          <Route path="/apply">
+            <Apply></Apply>
           </Route>
           <Route exact path="*">
             <NotFound></NotFound>
