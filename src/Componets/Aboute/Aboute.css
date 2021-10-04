@@ -1,0 +1,17 @@
+h5{
+    display: inline;
+    text-align: left;
+}
+p{
+    text-align: left;
+}
+h3{
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+.coo {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

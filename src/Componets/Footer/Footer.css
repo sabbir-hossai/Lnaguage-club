@@ -1,0 +1,19 @@
+.footer-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ 
+.footer{
+    position: static;
+    width: 100%;
+    bottom: 0px;  
+}
+.copyright{
+    text-align: center;
+    color:black;
+}

@@ -1,0 +1,9 @@
+[
+    {
+        "name": "English spoken course",
+        "course_id": 1,
+        "course_free": 5500,
+        "img": "https://image.freepik.com/free-vector/computer-class-open-space-office-empty-interior_107791-2137.jpg",
+        "course_duration": "3 Month"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "English spoken course",
+        "course_id": 1,
+        "course_free": 5500,
+        "img": "https://image.freepik.com/free-photo/teacher-doing-english-lesson-online-his-students_23-2148963016.jpg",
+        "course_duration": "3 Month"
+    },
+    {
+        "name": "pronunciation course",
+        "course_id": 2,
+        "course_free": 5500,
+        "img": "https://as2.ftcdn.net/v2/jpg/02/91/68/55/500_F_291685525_LzYMZswfdJ69QLBHKnbSR8dt9fD7F0WQ.jpg",
+        "course_duration": "3 Month"
+    },
+    {
+        "name": "IELTS course",
+        "course_id": 3,
+        "course_free": 6500,
+        "img": "https://image.freepik.com/free-photo/teacher-doing-her-english-lessons-online_23-2148999571.jpg",
+        "course_duration": "4 Month"
+    },
+    {
+        "name": "Kid's English",
+        "course_id": 4,
+        "course_free": 10000,
+        "img": "https://image.freepik.com/free-photo/little-children-during-lesson-language-school_392895-19893.jpg",
+        "course_duration": "6 Month"
+    }
+]
